@@ -6,4 +6,6 @@ Script which changes the DPI of single and multiple JPG files.
 
 `cd dpi-resize`
 
+`mkdir images`
+
 `python3 dpi-resize.py`
